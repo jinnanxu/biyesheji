@@ -17,11 +17,11 @@
 ![image](syyp.jpg)
 
 3. 认养一棵树  
-![image](biyesheji/ryyks.jpg)
+![image](ryyks.jpg)
 
 4. 校园学习小助手  
-![image](biyesheji/xxzs.jpg)
+![image](xxzs.jpg)
 
 5. 付费自习室小程序
-![image](biyesheji/ffzxs.jpg)
-![image](biyesheji/ffzxs2.png)
+![image](ffzxs.jpg)
+![image](ffzxs2.png)
