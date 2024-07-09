@@ -11,17 +11,17 @@
 
 #### 部分项目展示：
 1. 助农小程序  
-![avatar](http://118.25.89.125:18080/images/github/20231101222613.jpg)
+![avatar](zsnc.jpg)
 
 2. 摄影约拍小程序  
-![avatar](http://118.25.89.125:18080/images/github/20231113224652.jpg)
+![avatar](syyp.jpg)
 
 3. 认养一棵树  
-![avatar](http://118.25.89.125:18080/images/github/20231119221748.jpg)
+![avatar](ryyks.jpg)
 
 4. 校园学习小助手  
-![avatar](http://118.25.89.125:18080/images/github/20231127111128.jpg)
+![avatar](xxzs.jpg)
 
 5. 付费自习室小程序
-![avatar](http://118.25.89.125:18080/images/github/20240331144538.jpg)
-![avatar](http://118.25.89.125:18080/images/github/20240620111744.png)
+![avatar](ffzxs.jpg)
+![avatar](ffzxs2.png)
