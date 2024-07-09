@@ -11,10 +11,10 @@
 
 #### 部分项目展示：
 1. 助农小程序  
-![image](biyesheji/zsnc.jpg)
+![image](zsnc.jpg)
 
 2. 摄影约拍小程序  
-![image](biyesheji/syyp.jpg)
+![image](syyp.jpg)
 
 3. 认养一棵树  
 ![image](biyesheji/ryyks.jpg)
