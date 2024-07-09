@@ -11,17 +11,17 @@
 
 #### 部分项目展示：
 1. 助农小程序  
-![image](zsnc.jpg)
+![image](biyesheji/zsnc.jpg)
 
 2. 摄影约拍小程序  
-![image](syyp.jpg)
+![image](biyesheji/syyp.jpg)
 
 3. 认养一棵树  
-![image](ryyks.jpg)
+![image](biyesheji/ryyks.jpg)
 
 4. 校园学习小助手  
-![image](xxzs.jpg)
+![image](biyesheji/xxzs.jpg)
 
 5. 付费自习室小程序
-![image](ffzxs.jpg)
-![image](ffzxs2.png)
+![image](biyesheji/ffzxs.jpg)
+![image](biyesheji/ffzxs2.png)
