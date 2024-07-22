@@ -13,8 +13,9 @@
 1. 助农小程序  
 ![image](zsnc.jpg)
 
-2. 摄影约拍小程序  
-![image](syyp.jpg)
+2. 社区助老服务小程序
+![image](sqzl1.jpg)
+![image](sqzl2.jpg)
 
 3. 认养一棵树  
 ![image](ryyks.jpg)
@@ -25,3 +26,6 @@
 5. 付费自习室小程序
 ![image](ffzxs.jpg)
 ![image](ffzxs2.png)
+
+6. 摄影约拍小程序  
+![image](syyp.jpg)
