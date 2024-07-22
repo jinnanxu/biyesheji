@@ -13,7 +13,7 @@
 1. 助农小程序  
 ![image](zsnc.jpg)
 
-2. 社区助老服务小程序
+2. 社区助老服务小程序  
 ![image](sqzl1.jpg)
 ![image](sqzl2.jpg)
 
