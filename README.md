@@ -11,21 +11,22 @@
 
 #### 部分项目展示：
 1. 助农小程序  
-![image](http://129.211.222.131:18080/images/github/zsnc.jpg)
+![image](http://129.211.222.131:18080/images/20240908/farm1.jpg)
+![image](http://129.211.222.131:18080/images/20240908/farm2.jpg)
 
-2. 社区助老服务小程序  
+3. 社区助老服务小程序  
 ![image](http://129.211.222.131:18080/images/github/sqzl1.jpg)
 ![image](http://129.211.222.131:18080/images/github/sqzl2.jpg)
 
-3. 认养一棵树  
+4. 认养一棵树  
 ![image](http://129.211.222.131:18080/images/github/ryyks.jpg)
 
-4. 校园学习小助手  
+5. 校园学习小助手  
 ![image](http://129.211.222.131:18080/images/github/xxzs.jpg)
 
-5. 付费自习室小程序
+6. 付费自习室小程序
 ![image](http://129.211.222.131:18080/images/github/ffzxs.jpg)
 ![image](http://129.211.222.131:18080/images/github/ffzxs2.png)
 
-6. 摄影约拍小程序  
+7. 摄影约拍小程序  
 ![image](http://129.211.222.131:18080/images/github/syyp.jpg)
